@@ -149,8 +149,9 @@ drozer console connect
 ```
 > Tu dois voir le prompt `dz>` — la console Drozer est prête
 > drozer console connect --server 127.0.0.1:31415 -c "echo test"
-> # Doit afficher "test"
-> ```
+
+>  Doit afficher "test"
+
 
 
 ---
