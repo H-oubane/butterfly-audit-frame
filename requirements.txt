@@ -1,0 +1,4 @@
+# requirements.txt
+frida
+frida-tools
+drozer
