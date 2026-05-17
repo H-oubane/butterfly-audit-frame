@@ -224,7 +224,7 @@ pip install .
 Vérifie les signaux de sécurité (debug, root, hooks, SELinux, permissions) :
 
 ```bash
-python audit.py --audit
+risk-scorer --audit
 ```
 
 **Sortie :**
@@ -237,7 +237,7 @@ python audit.py --audit
 Inclut la détection automatique de l'agent Drozer + analyse complète de la surface d'attaque :
 
 ```bash
-python audit.py --audit --with-drozer
+risk-scorer --audit --with-drozer
 ```
 
 **Ce mode détecte automatiquement :**
